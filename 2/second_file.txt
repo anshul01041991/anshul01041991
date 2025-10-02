@@ -1,1 +1,2 @@
-Test
+Test.
+Making changes to check git diff staged version
